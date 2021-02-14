@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Admin\Desktop\CDWEB_2020\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2104762264.index
+3151168012.index
+2149446271.index
+1505555369.index
+1899189612.index
+1296214966.index
+1584714973.index

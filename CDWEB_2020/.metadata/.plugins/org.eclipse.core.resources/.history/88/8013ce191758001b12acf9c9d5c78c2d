@@ -1,0 +1,54 @@
+package com.bookstore.dao;
+
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.bookstore.entity.User;
+import com.bookstore.repository.UserRepository;
+
+@Repository
+@Transactional
+public class UserDAO {
+	@Autowired
+	private UserRepository uRepository;
+
+	public User findByEmail(String email) {
+		List<User> listUser = uRepository.findByEmail(email);
+		if (listUser != null && listUser.size() > 0) {
+			return listUser.get(0);
+		}
+		return null;
+
+	}
+
+//	public User login(String email) {
+//		String sql = "select a from User a where a.email = :email";
+//		List<User> listUser = manager.createNamedQuery(sql, User.class).setParameter("email", email).getResultList();
+//		if (listUser != null && listUser.size() > 0) {
+//			return listUser.get(0);
+//		}
+//		return null;
+//	}
+//
+//	public boolean checkLogin(String email, String password) {
+//		Map<String, Object> paremeter = new HashMap<String, Object>();
+//		paremeter.put("email", email);
+//		paremeter.put("password", password);
+//		String sql = "select a from User a where a.email = :email and password = :password";
+//
+////		List<User> listUsers = manager.createNamedQuery(sql, User.class).setParameter(paremeter).getResultList(); 
+//		Set<Entry<String, Object>> setParameters = paremeter.entrySet();
+//		for (Entry<String, Object> entry : setParameters) {
+//			List<User> listUsers = manager.createNamedQuery(sql, User.class)
+//					.setParameter(entry.getKey(), entry.getValue()).getResultList();
+//			if (listUsers.size() == 1) {
+//				return true;
+//			}
+//		}
+//		return false;
+//	}
+}

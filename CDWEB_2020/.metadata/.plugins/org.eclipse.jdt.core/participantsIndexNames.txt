@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\Admin\Desktop\CDWEB_2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1899189612.index
+\BookStore\src\main\java
+C:\Users\Admin\Desktop\CDWEB_2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4115757388.index
+\BookStore\src\main\java
+C:\Users\Admin\Desktop\CDWEB_2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3590646807.index
+\BookStore\src\main\java

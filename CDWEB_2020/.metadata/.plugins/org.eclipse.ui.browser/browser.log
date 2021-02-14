@@ -1,0 +1,78 @@
+
+thg 12 30, 2020 10:39:09.931 NEW SESSION
+thg 12 30, 2020 10:39:09.931 [9676:7992:1230/103909.929:ERROR:external_registry_loader_win.cc(152)] File path C needs to be absolute in key Software\Google\Chrome\Extensions\hlkkiebmffkgpgkajeeedjgehnlogjlg
+thg 12 30, 2020 10:39:09.942 [9676:7992:1230/103909.931:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPluginVersion2.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+thg 12 30, 2020 10:39:26.767 [9676:6872:1230/103926.767:ERROR:device_event_log_impl.cc(211)] [10:39:26.768] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 30, 2020 10:49:09.631 [1230/104909.630:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+thg 12 30, 2020 10:52:57.704 [9676:7648:1230/105257.704:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 12 30, 2020 10:53:24.663 [9676:7648:1230/105324.662:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+thg 1 17, 2021 10:22:47.06 NEW SESSION
+thg 1 17, 2021 10:22:47.06 [7680:6604:0117/102247.004:ERROR:external_registry_loader_win.cc(152)] File path C needs to be absolute in key Software\Google\Chrome\Extensions\hlkkiebmffkgpgkajeeedjgehnlogjlg
+thg 1 17, 2021 10:22:47.18 [7680:6604:0117/102247.005:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPluginVersion2.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+thg 1 17, 2021 10:23:10.656 [7680:3432:0117/102310.656:ERROR:device_event_log_impl.cc(211)] [10:23:10.656] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 1 17, 2021 10:32:46.596 [0117/103246.595:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+thg 1 17, 2021 11:46:23.504 [7680:3432:0117/114623.503:ERROR:device_event_log_impl.cc(211)] [11:46:23.503] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+thg 1 17, 2021 11:46:24.583 [7680:3296:0117/114624.582:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 11:46:54.269 [7680:3296:0117/114654.269:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 11:47:44.90 [7680:3296:0117/114744.090:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 11:49:07.795 [7680:3296:0117/114907.794:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 11:52:14.437 [7680:3296:0117/115214.437:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 11:59:13.543 [7680:3296:0117/115913.543:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 12:09:13.552 [7680:3296:0117/120913.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 12:19:13.562 [7680:3296:0117/121913.562:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 18:29:28.663 [7680:3296:0117/182928.662:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 18:29:58.467 [7680:3296:0117/182958.467:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 18:30:42.76 [7680:3296:0117/183042.076:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 18:32:30.752 [7680:3296:0117/183230.752:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 21:32:59.687 [7680:3296:0117/213259.687:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 21:33:29.605 [7680:3296:0117/213329.605:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 21:34:24.702 [7680:3296:0117/213424.702:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 21:36:01.928 [7680:3296:0117/213601.928:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 21:39:37.267 [7680:3296:0117/213937.267:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 17, 2021 21:45:59.886 [7680:3296:0117/214559.886:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 24:42:28.161 [7680:3432:0118/004228.137:ERROR:device_event_log_impl.cc(211)] [00:42:28.137] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+
+thg 1 18, 2021 08:50:08.615 NEW SESSION
+thg 1 18, 2021 08:50:08.615 [13560:7468:0118/085008.613:ERROR:external_registry_loader_win.cc(152)] File path C needs to be absolute in key Software\Google\Chrome\Extensions\hlkkiebmffkgpgkajeeedjgehnlogjlg
+thg 1 18, 2021 08:50:08.629 [13560:7468:0118/085008.617:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPluginVersion2.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+thg 1 18, 2021 08:50:29.361 [13560:6584:0118/085029.361:ERROR:device_event_log_impl.cc(211)] [08:50:29.361] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 1 18, 2021 08:50:34.729 [13560:14772:0118/085034.728:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+thg 1 18, 2021 08:50:41.402 [13560:14772:0118/085041.402:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+thg 1 18, 2021 08:51:18.647 [13560:6584:0118/085118.647:ERROR:device_event_log_impl.cc(211)] [08:51:18.647] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+thg 1 18, 2021 08:51:19.847 [13560:14772:0118/085119.846:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 08:53:07.386 [13560:14772:0118/085307.386:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 08:56:42.451 [13560:14772:0118/085642.450:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:00:08.248 [0118/090008.247:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+thg 1 18, 2021 09:03:05.323 [13560:14772:0118/090305.323:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:13:05.334 [13560:14772:0118/091305.333:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:23:05.336 [13560:14772:0118/092305.335:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:24:44.858 [13560:14772:0118/092444.857:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+thg 1 18, 2021 09:24:54.333 [13560:14772:0118/092454.332:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+thg 1 18, 2021 09:43:48.613 [13560:14772:0118/094348.613:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:44:17.47 [13560:14772:0118/094417.047:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:44:58.539 [13560:14772:0118/094458.539:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:46:57.327 [13560:14772:0118/094657.326:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:50:50.398 [13560:14772:0118/095050.398:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 09:58:01.136 [13560:14772:0118/095801.136:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 10:08:01.141 [13560:14772:0118/100801.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 10:12:56.961 [13560:3372:0118/101256.960:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:13:30.218 [13560:6584:0118/101330.218:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+thg 1 18, 2021 10:14:11.972 [13560:4280:0118/101411.971:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:16:04.979 [13560:3372:0118/101604.978:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:18:01.156 [13560:14772:0118/101801.155:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 10:18:54.996 [13560:7024:0118/101854.995:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:23:10.12 [13560:1336:0118/102310.012:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:28:01.172 [13560:14772:0118/102801.172:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 10:29:33.28 [13560:2204:0118/102933.027:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:38:01.189 [13560:14772:0118/103801.188:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 10:39:08.41 [13560:6688:0118/103908.041:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:48:01.196 [13560:14772:0118/104801.196:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+thg 1 18, 2021 10:49:08.50 [13560:4036:0118/104908.049:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:53:25.274 [13560:14772:0118/105325.273:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+thg 1 18, 2021 10:53:38.894 [13560:2452:0118/105338.894:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 10:54:13.405 [13560:14772:0118/105413.405:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+thg 1 18, 2021 10:59:08.59 [13560:4972:0118/105908.059:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 11:02:16.280 [13560:14772:0118/110216.280:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+thg 1 18, 2021 11:02:16.312 [13560:12372:0118/110216.286:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 1 18, 2021 11:02:33.546 [13560:14772:0118/110233.545:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

@@ -1,0 +1,18 @@
+package com.bookstore.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.bookstore.entity.ReceiptItem;
+import com.bookstore.repository.ReceipRepository;
+
+@Service
+public class ReceiptItemService {
+	@Autowired
+	private ReceipRepository rRepository;
+	public void create(ReceiptItem receiptItem) {
+		receiptItem.
+		
+	}
+
+}
